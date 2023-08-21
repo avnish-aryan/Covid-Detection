@@ -9,6 +9,6 @@ Links for the datsets used are:
 2. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 # Network Architecture
-![Uploading image.png…]()
+
 
 
