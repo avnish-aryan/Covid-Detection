@@ -9,6 +9,6 @@ Links for the datsets used are:
 2. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 # Network Architecture
-
+[image](https://github.com/avnish-aryan/Covid-Detection/assets/138995188/97555006-b7a0-4332-b1c1-d35350ae23a9)
 
 
